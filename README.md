@@ -1,0 +1,2 @@
+# WordPress Window Size Indicator
+This is just a WordPress plugin of this gist from [Web Design Weekly](http://web-design-weekly.com/blog/snippets/current-screen-width-indicator/). The original gist can be viewed [here](https://gist.github.com/jordanmoore/3143851).
